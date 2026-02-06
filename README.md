@@ -77,7 +77,7 @@ Open index.html in your browser
 
 ```
 ## 🌐 Live Demo
-[Try it here](https://mollylamolla.github.io/3X3-Game/game.html)
+[Try it here](https://mollylamolla.github.io/3x3-Game/)
 
 ## 📄 License
 This project is licensed under the ISC License.
